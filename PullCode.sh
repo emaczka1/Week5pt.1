@@ -1,6 +1,7 @@
 rm -rf *
 
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/emaczka1/Week5pt.1.git
+
 
 cd your-repo
 
